@@ -1,0 +1,5 @@
+W projektcie próbowa³em stworzyæ indeks produktów znajduj¹cych siê w hipermarkecie pozwalaj¹cy na umiejœcowienie wszystkich 
+produktów w odpowiednich dzia³ach. Projekt jest w stanie dodaæ, usun¹æ, zapisaæ i za³adowaæ listê produktów. Problem napotka³em
+przy przekazywaniu danych z poszczególnych enumów w taki sposoób, ¿eby przy wybraniu konkretnej wartoœci z jednego enuma program 
+dodawa³ konkretnego enumu jako specyfikacje danego produktu. By³bym wdziêczny za pomoc w rozwi¹zaniu tego problemu. Do pliku
+za³¹czam screena z mojego konta na Azure.
